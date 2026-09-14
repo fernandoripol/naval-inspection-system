@@ -1,0 +1,62 @@
+=========================================================================================
+                                MARINHA DO BRASIL
+                         DELEGACIA FLUVIAL DE FURNAS
+                        RELATÓRIO DE INSPEÇÃO NAVAL
+=========================================================================================
+01) TAREFA ATRIBUÍDA: FISCALIZAÇÃO DO TRÁFEGO AQUAVIÁRIO
+02) DATA/PERÍODO: 14 de setembro de 2026. OMS: 222
+    SAÍDA DA EQUIPE: 09:00 | RETORNO DA EQUIPE: 17:10
+
+03) CRONOLOGIA
+    DIA | DATA | PIN | OBSERVAÇÃO
+    sabado | 10/04/26 | lago de furnas | -
+
+04) EMBARCAÇÕES FISCALIZADAS
+-----------------------------------------------------------------------------------------
+EMBARCAÇÃO         | Nº DE INSCRIÇÃO  | A.I  | A.A  | F.D  | CLASSE | DATA 
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+*MA (Moto aquática), E/R (Esporte e Recreio), T/C (Transporte de Carga), T/P (Passageiros)
+
+TOTAL        | MOTO-AQUÁTICA | ESPORTE E RECREIO | BALSA | TRANSPORTE PASSAGEIROS | DISPOSITIVO
+ABORDAGENS   | 0             | 0                 | 0     | 0                      | 0          
+NOTIFICAÇÕES | 0             | 0                 | 0     | 0                      | 0          
+APREENSÕES   | 0             | 0                 | 0     | 0                      | 0          
+
+05) MEIOS EMPREGADOS:
+    VIATURA:  | EMBARCAÇÃO: 
+
+06) MILITARES RESPONSÁVEIS:
+    SDFK: SDFL SDLFK
+    DONE: SDLFKJ SLDKF
+
+07) MARINAS/RAMPAS E PÍER:
+    -
+08) CONDIÇÕES METEOROLÓGICAS:
+    Tempo parcialmente nublado.
+09) OCORRÊNCIAS:
+    
+10) OUTRAS IRREGULARIDADES:
+    Não houve.
+11) ACOMODAÇÕES:
+    Não houve.
+12) FACILIDADES PARA ACESSO:
+    Clube Náutico Engenheiro Mauro de Ferraz.
+13) SUGESTÕES:
+    Não houve.
+14) OUTRAS OBSERVAÇÕES:
+    Não houve.
+
+15) CLG:
+    Diesel: 0lts | Gasolina: 0lts
+
+-----------------------------------------------------------------------------------------
+RUBENS IKEUTI                          | ANDRE RAIMUNDO DA SILVA
+Capitão de Corveta                     | Primeiro-Tenente (AA)
+Delegado                               | Encarregado da Divisão STA
+
+MATHEUS GORZA DA CUNHA MONNERAT
+Segundo-Sargento (CN)
+Inspetor Naval
+=========================================================================================
+
